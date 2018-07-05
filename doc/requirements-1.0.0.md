@@ -203,6 +203,27 @@ If you need to a custom dialect of Markdown for yourself, you should somehow for
 
 
 
+## Examples to be inspired from
+
+- https://jvns.ca/
+    - I like how the table of contents is front and center
+    - I also like how posts are short and sweet
+
+- http://matt.might.net/articles/
+- http://www.kalzumeus.com/
+- https://sanctum.geek.nz/arabesque/
+- http://pgbovine.net/writings.htm
+- https://wiki.archlinux.org
+    - This begs the question: What should you do about knowledge that should be placed in some wiki?
+
+- http://vimcasts.org/
+    - How about tutorial videos? What format should they be in?
+
+- Terminal session recordings?
+
+- look at other people's personal wikis
+
+
 
 
 
@@ -214,9 +235,13 @@ If you need to a custom dialect of Markdown for yourself, you should somehow for
 
 - There should be a way to indicate that a given folder should be turned into a blog post
 
-## Examples to be inspired from
 
 - TODO: Look at general patterns and features of Jekyll and its leading alternatives
+    - I'm leaning towards doing this with Hugo
+        - Why?
+            - Many users
+            - Written in Go
+            - Kubernetes chose to move their docs from Jekyll to Hugo https://kubernetes.io/blog/2018/05/05/hugo-migration/
 
 ## Generated HTML
 
@@ -256,6 +281,10 @@ Keep it simple. Maybe use AWS Lambda or some serverless stack so you don't have 
 ## Comments
 
 Disable them. I don't want to have to moderate comments.
+
+## RSS Feed (low priority)
+
+It should exist and it should be wonderful to use.
 
 
 
