@@ -8,7 +8,7 @@ Always be aware of where all of the surrounding cars are.
 
 One of the only things you can control when driving is the amount of space between your car and the car in front of you. Maximizing this distance will maximize the amount of time you have to make a sudden stop, and thus increase the chance of you avoiding an accident.
 
-While driving, resting your left elbow on the door is more stable and comfortable. You should always have both hands on the wheel, but the exact hand positioning that they teach in driving schools is usually not ideal because it's not comfortable enough.
+While driving, resting your left elbow on the door or ledge along the door is more stable and comfortable, especially for long distance driving. You should always have both hands on the steering wheel, but the exact hand positioning that they teach in driving schools is usually not ideal because it's not comfortable for long periods.
 
 A car will move slowly if you do not press any pedals. If you only need to move forward slightly (e.g. when parking or in stop-and-go rush-hour traffic), you can release the brake pedal and the car will still move forward slowly. You don't need to press the gas pedal in these situations, or if you do, you only need to press it gently.
 
