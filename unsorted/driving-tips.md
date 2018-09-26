@@ -78,7 +78,7 @@ You should know which buttons to press to rapidly defog your windows, because if
 
 When on a small rural highway, with only 1 or 2 lanes in each direction of traffic, cars will tend to end up being grouped into packs. 
 
-It's safest to purposely remain at the back of the pack because you can control how much space is between you and the car in front of you, and ensure that there is no car behind you.
+It's safest to purposely remain at the back of a pack of cars because you can control how much space is between you and the car in front of you, and ensure that there is no car behind you.
 
 In an emergency situation where all the cars need to suddenly slow down or stop (for example, when a moose, bear, deer, or buffalo suddenly walks onto the highway), being at the back of the pack ensures that there is no car that can accidentally rear-end you (crash into the rear of your car).
 
