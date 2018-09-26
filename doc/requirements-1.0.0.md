@@ -289,6 +289,7 @@ It should exist and it should be wonderful to use.
 
 
 
+# Blog generation: posting to Medium (alternative idea)
 
 
 
