@@ -20,11 +20,11 @@
 
 ## "just after"
 
-- EN: Just after she saw the teacher's figure,
+- EN: Just after she saw the teacher's figure, she left the classroom.
 
   JA: 彼女は、教授の姿を見るが早いか、教室から逃げ出した。
 
-- EN: Just after my mom got into bed, I could hear her faint breathing.
+- EN: Just after my mom got into bed, I could hear her faint sleeping breathing.
 
   JA: 母が布団に入るや否や、かすかな寝息が聞こえてきた。
 
@@ -44,6 +44,6 @@
 
 ## "just <ACTION> <TIME>"
 
-- EN: When I called, unfortunately, she had just stepped out a little earlier.
+- EN: When I called, unfortunately she had just stepped out a little earlier.
 
   JA: 電話したら、あいにくちょっと前に出かけたところだった。
