@@ -1,7 +1,8 @@
 ## "just now"
 
 - EN: I got home just now.
-    JA: 今帰ったところです。
+
+  JA: 今帰ったところです。
 
 - EN: I got here just now.
   JA: さっき着いたばかりです。
