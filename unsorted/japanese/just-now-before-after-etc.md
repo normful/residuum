@@ -1,14 +1,12 @@
 ## "just now"
 
-1. EN: I got home just now.
-   JA: 今帰ったところです。
+- EN: I got home just now.
+    JA: 今帰ったところです。
 
-EN: I got here just now.
+- EN: I got here just now.
+  JA: さっき着いたばかりです。
 
-JA: さっき着いたばかりです。
-
-EN: Even though I finished eating lunch just now, I'm starting to get hungry.
-
+- EN: Even though I finished eating lunch just now, I'm starting to get hungry.
 JA: お昼を食べたばっかりだけど、もうお腹空いてきちゃった。
 
 ## "just before"
