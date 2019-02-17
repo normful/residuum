@@ -42,7 +42,7 @@
 
   JA: 家に戻って来ると、旦那は仕事に出掛けることろだった。
 
-## "just <ACTION> <TIME>"
+## "just ACTION TIME"
 
 - EN: When I called, unfortunately she had just stepped out a little earlier.
 
